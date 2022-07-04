@@ -1,2 +1,0 @@
-# JASWANTH
-repository
